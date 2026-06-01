@@ -1,9 +1,9 @@
 ccxt
-pandas
-numpy
-pandas-ta
+pandas==2.1.4
+numpy==1.26.4
 groq
 google-generativeai
 openai
 requests
 python-dotenv
+ta
